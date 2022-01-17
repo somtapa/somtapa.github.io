@@ -59,15 +59,15 @@
             "id": "https://taleofthreads.com/contact/",
             "url": "https://taleofthreads.com/contact/",
             "title": "Contact",
-            "summary": "Email: somtapa@taleofthreads.com Whatsapp or text: +1 425 945 6098 Instagram: https://www.instagram.com/taleofthreadsusa/ Facebook: https://www.facebook.com/taleofthreadsusa ",
-            "content_html": "<p>Email: <a href=\"mailto:somtapa@taleofthreads.com\">somtapa@taleofthreads.com</a></p>\n<p>Whatsapp or text: +1 425 945 6098</p>\n<p>Instagram: <a href=\"https://www.instagram.com/taleofthreadsusa/\">https://www.instagram.com/taleofthreadsusa/</a></p>\n<p>Facebook: <a href=\"https://www.facebook.com/taleofthreadsusa\">https://www.facebook.com/taleofthreadsusa</a> </p>\n<p> </p>\n<p> </p>",
+            "summary": "Email: somtapa@taleofthreads.com Whatsapp or text: +1 425 945 6098 ",
+            "content_html": "<p>Email: <a href=\"mailto:somtapa@taleofthreads.com\">somtapa@taleofthreads.com</a></p>\n<p class=\"align-left\">Whatsapp or text: +1 425 945 6098</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://taleofthreads.com/media/posts/6/icons8-instagram-80.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://taleofthreads.com/media/posts/6/responsive/icons8-instagram-80-xs.png 300w ,https://taleofthreads.com/media/posts/6/responsive/icons8-instagram-80-sm.png 480w ,https://taleofthreads.com/media/posts/6/responsive/icons8-instagram-80-md.png 768w ,https://taleofthreads.com/media/posts/6/responsive/icons8-instagram-80-lg.png 1024w ,https://taleofthreads.com/media/posts/6/responsive/icons8-instagram-80-xl.png 1360w ,https://taleofthreads.com/media/posts/6/responsive/icons8-instagram-80-2xl.png 1600w\"  alt=\"\" width=\"36\" height=\"36\"></figure>: <a href=\"https://www.instagram.com/taleofthreadsusa/\">https://www.instagram.com/taleofthreadsusa/</a></p>\n<figure class=\"post__image\"><a href=\"https://www.facebook.com/taleofthreadsusa\"><img loading=\"lazy\"  style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://taleofthreads.com/media/posts/6/f_logo_RGB-Blue_58.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://taleofthreads.com/media/posts/6/responsive/f_logo_RGB-Blue_58-xs.png 300w ,https://taleofthreads.com/media/posts/6/responsive/f_logo_RGB-Blue_58-sm.png 480w ,https://taleofthreads.com/media/posts/6/responsive/f_logo_RGB-Blue_58-md.png 768w ,https://taleofthreads.com/media/posts/6/responsive/f_logo_RGB-Blue_58-lg.png 1024w ,https://taleofthreads.com/media/posts/6/responsive/f_logo_RGB-Blue_58-xl.png 1360w ,https://taleofthreads.com/media/posts/6/responsive/f_logo_RGB-Blue_58-2xl.png 1600w\"  alt=\"\" width=\"37\" height=\"37\"></figure></a><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">: </span><a href=\"https://www.facebook.com/taleofthreadsusa\" style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">https://www.facebook.com/taleofthreadsusa</a><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\"> </span></p>\n<p class=\"align-left\"> </p>\n<p> </p>",
             "author": {
                 "name": "Somtapa"
             },
             "tags": [
             ],
             "date_published": "2021-09-30T20:39:00-07:00",
-            "date_modified": "2022-01-16T19:37:50-08:00"
+            "date_modified": "2022-01-16T19:58:56-08:00"
         },
         {
             "id": "https://taleofthreads.com/about/",

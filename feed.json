@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://taleofthreads.com/kalamkari/",
+            "url": "https://taleofthreads.com/kalamkari/",
+            "title": "Kalamkari",
+            "summary": "Kalamkari sarees -from the words \"kalam\" meaning pen and \"kari\" meaning art. these were first found as an art form in the lush&hellip;",
+            "content_html": "<div>Kalamkari sarees -from the words \"kalam\" meaning pen and \"kari\" meaning art. these were first found as an art form in the lush lands of Golconda, Andhra Pradesh.</div>\n<div>The unique feature of kalamkari art is that it uses only natural colors or vegetable dyes.</div>\n<div>For instance black color used for outlining sketches is extracted by blending jaggery, water and iron filings. </div>\n<div>This art involves 23 steps of dyeing. Our Kalamkaris are hand-drawn and made by the Kalamkars of Srikalahasti, directly sourced from artisans whose skills and techniques have been passed down from generation to generation. After painting the sarees, they are exposed to the elements so as to bring the colors of your saree to life and create the fine piece of art that you have purchased for your closet.</div>\n<div>One of the first steps of making Kalamkari, is boiling the base fabric in buffalo milk. When you get a kalamkari saree from Tale of Threads, you will be welcomed by the aroma of the milk still lingering, a mark of it's authenticity.</div>",
+            "image": "https://taleofthreads.com/media/posts/9/20211212_114030.jpg",
+            "author": {
+                "name": "Somtapa"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-16T19:49:03-08:00",
+            "date_modified": "2022-01-16T19:49:03-08:00"
+        },
+        {
+            "id": "https://taleofthreads.com/ajrakh-print/",
+            "url": "https://taleofthreads.com/ajrakh-print/",
+            "title": "Ajrakh Print",
+            "summary": "Ajrakh, is a unique form of block printing found mostly in Ajrakhpur, Kuch. The name Ajrakh is derived from the Arabic word AZRAK&hellip;",
+            "content_html": "<div><strong>Ajrakh</strong>, is a unique form of block printing found mostly in Ajrakhpur, Kuch. The name Ajrakh is derived from the Arabic word AZRAK that means blue. This particular art form is influenced by Sufism in the choice of the patterns and colors used for printing.</div>\n<div>Ajrakh block printing  predominantly uses dark colors like blue, red, black and the patterns are mostly geometric in shape.</div>\n<div><span style=\"color: #202122; font-family: sans-serif;\">One of the main techniques used in ajrak printing is called Do- Rukha, where the printing is done on both sides of the fabric. The artisans use \"resist dyeing\" and block printing together to make it a coveted art.</span></div>\n<div>Ajrakh was mainly produced by a community of people called KHATRI, artisans for the cattle herders of the region, the Maldhari men who later migrated to Dhamadka.</div>\n<div>After the earthquake in Dhamadka and Bhuj, a village called ajrakhpur was set up to practice this art.</div>",
+            "image": "https://taleofthreads.com/media/posts/8/20211214_123736.jpg",
+            "author": {
+                "name": "Somtapa"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-16T19:43:44-08:00",
+            "date_modified": "2022-01-16T19:43:44-08:00"
+        },
+        {
             "id": "https://taleofthreads.com/lanmbani/",
             "url": "https://taleofthreads.com/lanmbani/",
             "title": "Lambani",
